@@ -6,3 +6,6 @@
 	path = content
 	url = https://github.com/h3ind33r/h3ind33r.github.io
 	branch = content
+[submodule "themes/chicago7"]
+	path = themes/chicago7
+	url = https://github.com/akopdev/hugo-theme-chicago7.git
