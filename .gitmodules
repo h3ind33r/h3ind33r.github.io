@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/h3ind33r/h3ind33r.github.io
 	branch = source
+[submodule "content"]
+	path = content
+	url = https://github.com/h3ind33r/h3ind33r.github.io
+	branch = content
