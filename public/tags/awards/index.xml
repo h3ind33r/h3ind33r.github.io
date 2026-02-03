@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards on H3iND33R&#39;s Public Docker</title>
+    <link>http://localhost:1313/tags/awards/</link>
+    <description>Recent content in Awards on H3iND33R&#39;s Public Docker</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/awards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>학술 활동 및 수상 경력</title>
+      <link>http://localhost:1313/publications/achievements/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/achievements/</guid>
+      <description>&lt;h2 id=&#34;-작성-논문-현황&#34;&gt;📝 작성 논문 현황&lt;/h2&gt;&#xA;&lt;h3 id=&#34;완료된-연구-논문&#34;&gt;완료된 연구 논문&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Year&lt;/th&gt;&#xA;          &lt;th&gt;Paper Title&lt;/th&gt;&#xA;          &lt;th&gt;Field&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2024&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/forensic-ai-application-analysis-2024.pdf&#34;&gt;Forensic Artifact Analysis of Windows OS-based Conversational AI Applications&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Digital Forensics&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2025&lt;/td&gt;&#xA;          &lt;td&gt;A Framework Proposal for Archiving Suspected Criminal Channels Using Telegram API&lt;/td&gt;&#xA;          &lt;td&gt;Cybercrime Investigation&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-수상-경력&#34;&gt;🏆 수상 경력&lt;/h2&gt;&#xA;&lt;h3 id=&#34;대외-수상&#34;&gt;대외 수상&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;연도&lt;/th&gt;&#xA;          &lt;th&gt;주관 기관&lt;/th&gt;&#xA;          &lt;th&gt;수상 내역&lt;/th&gt;&#xA;          &lt;th&gt;비고&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2022&lt;/td&gt;&#xA;          &lt;td&gt;사이버작전사령부&lt;/td&gt;&#xA;          &lt;td&gt;Whitehat Contest 생도트랙 &lt;strong&gt;우승&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;🥇&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2024&lt;/td&gt;&#xA;          &lt;td&gt;KISA&lt;/td&gt;&#xA;          &lt;td&gt;K-Shield Jr. 13기 우수사이버보안인력 선정&lt;/td&gt;&#xA;          &lt;td&gt;🎖️&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2024&lt;/td&gt;&#xA;          &lt;td&gt;두나무 × 티오리&lt;/td&gt;&#xA;          &lt;td&gt;UPSide Academy 2기 팀프로젝트 &lt;strong&gt;우수상&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;UDC 2025 컨퍼런스 발표권 획득&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h4 id=&#34;upside-academy-우수상-증빙&#34;&gt;UPSide Academy 우수상 증빙&lt;/h4&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://udc.dunamu.com/udc2025/program/special&#34;&gt;UDC 2025 Program&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
