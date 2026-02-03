@@ -1,6 +1,6 @@
 +++
-title = "Projects"
-description = "My projects"
+title = "Publications"
+description = "Research papers and academic achievements"
 +++
 
 <div style="text-align: center; padding: 4rem 2rem;">

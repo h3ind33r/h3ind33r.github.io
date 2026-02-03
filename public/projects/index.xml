@@ -7,12 +7,5 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>System 7</title>
-      <link>http://localhost:1313/projects/system7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/system7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Mac_OS_7.6.1_emulated_inside_of_SheepShaver.png/600px-Mac_OS_7.6.1_emulated_inside_of_SheepShaver.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;System 7 (later named Mac OS 7) is the seventh major release of the classic Mac OS operating system for Macintosh computers, made by Apple Computer.&#xA;It was launched on May 13, 1991, to succeed System 6 with virtual memory, personal file sharing, QuickTime, TrueType fonts, the Force Quit dialog, and an improved user interface.&lt;/p&gt;&#xA;&lt;p&gt;It was code-named &amp;ldquo;Big Bang&amp;rdquo; in development and the initial release was named &amp;ldquo;The System&amp;rdquo; or &amp;ldquo;System&amp;rdquo; like all earlier versions. With version 7.5.1, the name &amp;ldquo;Mac OS&amp;rdquo; debuted on&#xA;the boot screen, and the operating system was officially renamed to Mac OS in 1997 with version 7.6. The Mac OS 7 line was the longest-lasting major version of the Classic Mac OSes due to the troubled development of Copland, an operating system intended to be the successor to OS 7 before its cancellation and replacement with Mac OS 8.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

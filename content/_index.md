@@ -46,25 +46,76 @@ Hello, I am **Junseok Yeo**, active under the alias '**H3iND33R**'. I aspire to 
 ---
 # Profile
 ## Organization
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
+  <div style="flex: 1;">
+    
 * `Jan 2021 – Mar 2026` **Korea Military Academy 82th**
     * Bachelor of Science in Computer Science & Military Science
+    
+  </div>
+  <div style="flex-shrink: 0; margin-left: 1rem;">
+    <img src="/kma_logo.png" alt="KMA Logo" style="height: 60px; object-fit: contain;" />
+  </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
+  <div style="flex: 1;">
+    
 * `Jan 2023 – Dec 2024` **Seoul Metropolitan Police Agency**
     * Nuri-Cops (Cyber Honorary Police) appointment
+    
+  </div>
+  <div style="flex-shrink: 0; margin-left: 1rem;">
+    <img src="/seoul_police_logo.png" alt="Seoul Police Logo" style="height: 60px; object-fit: contain;" />
+  </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
+  <div style="flex: 1;">
+    
 * `Aug 12 – Oct 16, 2024` **K-Shield Jr. 13th** (Intrusion Incident Analysis)
     * *C.I.A.* Research Team Leader
 
         * Topic: *Development of an automated online crime-scene archiving tool using a Korean CIA-BERT™ model specialized in harmful content detection*
+    
+  </div>
+  <div style="flex-shrink: 0; margin-left: 1rem;">
+    <img src="/kshieldj.png" alt="K-Shield Logo" style="height: 60px; object-fit: contain;" />
+  </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
+  <div style="flex: 1;">
+    
 * `Feb 3 – May 30, 2025` **UPSide Academy 2nd**
     * *ChainStalker* Research Team Leader
 
         * Topic: *Verification of money-laundering utility through Perp DEX*
+    
+  </div>
+  <div style="flex-shrink: 0; margin-left: 1rem;">
+    <img src="/upside_academy_logo.png" alt="UPSide Academy Logo" style="height: 60px; object-fit: contain;" />
+  </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
+  <div style="flex: 1;">
+    
 * `2024` **Team Lead, Information Security Society (MILLISEC) of Korea Military Academy**
+    
+  </div>
+  <div style="flex-shrink: 0; margin-left: 1rem;">
+    <img src="/millisec_logo.png" alt="MILLISEC Logo" style="height: 60px; object-fit: contain;" />
+  </div>
+</div>
 
+<div style="margin-bottom: 1.5rem;">
+    
 * `Oct 2, 2025 -  ` **Fermion CTF Team (Gamma)**
+
+</div>
+
 ---
 ## CTF & Award
 
