@@ -119,98 +119,108 @@
 </div>
 <hr>
 <h1 id="profile">Profile</h1>
+<style>
+  .profile-entry {
+    display: flow-root;
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-entry ul {
+    margin-bottom: 0;
+  }
+
+  .profile-entry__logo {
+    float: right;
+    width: auto;
+    max-width: min(34%, 140px);
+    max-height: 100px;
+    margin: 0 0 0.75rem 1rem;
+    object-fit: contain;
+  }
+
+  .profile-entry__logo--small {
+    max-width: min(30%, 120px);
+    max-height: 60px;
+  }
+
+  @media (max-width: 640px) {
+    .profile-entry__logo {
+      float: none;
+      display: block;
+      max-width: 160px;
+      max-height: 90px;
+      margin: 0.5rem 0 0.75rem;
+    }
+  }
+</style>
 <h2 id="education">Education</h2>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
-  <div style="flex: 1;">
-<ul>
-<li>
-<p><code>2021/01 – 2026/03</code> <strong>Korea Military Academy 82th</strong></p>
-<ul>
-<li>Bachelor of Science in Computer Science &amp; Military Science</li>
-</ul>
-</div>
-<div style="flex-shrink: 0; margin-left: 1rem;">
-  <img src="/kma_logo.png" alt="KMA Logo" style="height: 60px; object-fit: contain;" />
-</div>
-</li>
-</ul>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2021/01 – 2026/03</code> <strong>Korea Military Academy 82th</strong></p>
+      <img class="profile-entry__logo profile-entry__logo--small" src="/kma_logo.png" alt="KMA Logo" />
+      <ul>
+        <li>Bachelor of Science in Computer Science & Military Science</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 <h2 id="organization">Organization</h2>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
-  <div style="flex: 1;">
-<ul>
-<li>
-<p><code>2025/10 -  </code> <strong>Fermion (CTF Team)</strong></p>
+<div class="profile-entry">
+  <ul>
+    <li><p><code>2025/10 -  </code> <strong>Fermion (CTF Team)</strong></p></li>
+  </ul>
 </div>
-</li>
-</ul>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2025/02 – 2025/05</code> <strong>UPSide Academy 2nd</strong></p>
+      <img class="profile-entry__logo" src="/upside_academy_logo.png" alt="UPSide Academy Logo" />
+      <ul>
+        <li>
+          <p><em>ChainStalker</em> Research Team Leader</p>
+          <ul>
+            <li>Topic: <em>Verification of money-laundering utility through Perp DEX</em></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
 </div>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
-  <div style="flex: 1;">
-<ul>
-<li>
-<p><code>2025/02 – 2025/05</code> <strong>UPSide Academy 2nd</strong></p>
-<ul>
-<li>
-<p><em>ChainStalker</em> Research Team Leader</p>
-<ul>
-<li>Topic: <em>Verification of money-laundering utility through Perp DEX</em></li>
-</ul>
-</li>
-</ul>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2024/08 – 2024/10</code> <strong>K-Shield Jr. 13th</strong> (Intrusion Incident Analysis)</p>
+      <img class="profile-entry__logo" src="/kshieldj.png" alt="K-Shield Logo" />
+      <ul>
+        <li>
+          <p><em>C.I.A.</em> Research Team Leader</p>
+          <ul>
+            <li>Topic: <em>Development of an automated online crime-scene archiving tool using a Korean CIA-BERT™ model specialized in harmful content detection</em></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
 </div>
-<div style="flex-shrink: 0; margin-left: 1rem;">
-  <img src="/upside_academy_logo.png" alt="UPSide Academy Logo" style="height: 100px; object-fit: contain;" />
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2024/03 - 2025/03</code> <strong>Team Lead, Information Security Society (MILLISEC) of Korea Military Academy</strong></p>
+      <img class="profile-entry__logo" src="/millisec_logo.png" alt="MILLISEC Logo" />
+    </li>
+  </ul>
 </div>
-</li>
-</ul>
-</div>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
-  <div style="flex: 1;">
-<ul>
-<li>
-<p><code>2024/08 – 2024/10</code> <strong>K-Shield Jr. 13th</strong> (Intrusion Incident Analysis)</p>
-<ul>
-<li>
-<p><em>C.I.A.</em> Research Team Leader</p>
-<ul>
-<li>Topic: <em>Development of an automated online crime-scene archiving tool using a Korean CIA-BERT™ model specialized in harmful content detection</em></li>
-</ul>
-</li>
-</ul>
-</div>
-<div style="flex-shrink: 0; margin-left: 1rem;">
-  <img src="/kshieldj.png" alt="K-Shield Logo" style="height: 100px; object-fit: contain;" />
-</div>
-</li>
-</ul>
-</div>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
-  <div style="flex: 1;">
-<ul>
-<li>
-<p><code>2024/03 - 2025/03</code> <strong>Team Lead, Information Security Society (MILLISEC) of Korea Military Academy</strong></p>
-</div>
-<div style="flex-shrink: 0; margin-left: 1rem;">
-  <img src="/millisec_logo.png" alt="MILLISEC Logo" style="height: 100px; object-fit: contain;" />
-</div>
-</li>
-</ul>
-</div>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.5rem;">
-  <div style="flex: 1;">
-<ul>
-<li>
-<p><code>2023/01 – 2024/12</code> <strong>Seoul Metropolitan Police Agency</strong></p>
-<ul>
-<li>Nuri-Cops (Cyber Honorary Police) appointment</li>
-</ul>
-</div>
-<div style="flex-shrink: 0; margin-left: 1rem;">
-  <img src="/seoul_police_logo.png" alt="Seoul Police Logo" style="height: 100px; object-fit: contain;" />
-</div>
-</li>
-</ul>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2023/01 – 2024/12</code> <strong>Seoul Metropolitan Police Agency</strong></p>
+      <img class="profile-entry__logo" src="/seoul_police_logo.png" alt="Seoul Police Logo" />
+      <ul>
+        <li>Nuri-Cops (Cyber Honorary Police) appointment</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 <hr>
 <h2 id="ctf--award">CTF &amp; Award</h2>
