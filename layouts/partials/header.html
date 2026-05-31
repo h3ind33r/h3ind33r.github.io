@@ -1,0 +1,13 @@
+<header>
+{{ partial "logo.html" . }}
+  <hgroup style="align-items: center;">
+      <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+      <nav aria-label="Main navigation" style="width: 100%;">
+          <ul style="justify-content: center;">
+              {{ range .Site.Menus.header.ByWeight }}
+              <li><a href="{{ .URL | relURL }}">{{- .Name -}}</a></li>
+              {{ end }}
+          </ul>
+      </nav>
+  </hgroup>
+</header>

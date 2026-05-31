@@ -1,4 +1,4 @@
-baseURL = "http://gohugo.io/"
+baseURL = "/"
 title = "H3iND33R's Public Docker"
 languageCode = "en-us"
 theme = ['github.com/akopdev/hugo-theme-chicago7']
@@ -17,12 +17,12 @@ unsafe = true
 [menu]
 [[menu.header]]
 name = "Publications"
-url = "publications"
+url = "/publications/"
 weight = 30
 
 [[menu.header]]
 name = "Projects"
-url = "projects"
+url = "/projects/"
 weight = 20
 
 [[menu.header]]
