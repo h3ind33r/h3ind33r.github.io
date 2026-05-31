@@ -2,93 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on H3iND33R&#39;s Public Docker</title>
-    <link>http://gohugo.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on H3iND33R&#39;s Public Docker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://gohugo.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Achievements</title>
-      <link>http://gohugo.io/tags/achievements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/achievements/</guid>
+      <link>/tags/achievements/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/achievements/</guid>
       <description></description>
     </item>
     <item>
       <title>Awards</title>
-      <link>http://gohugo.io/tags/awards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/awards/</guid>
+      <link>/tags/awards/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/awards/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>http://gohugo.io/tags/cybersecurity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/cybersecurity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>http://gohugo.io/tags/emoji/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/emoji/</guid>
+      <link>/tags/cybersecurity/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Forensics</title>
-      <link>http://gohugo.io/tags/forensics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/forensics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Math</title>
-      <link>http://gohugo.io/tags/math/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/math/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://gohugo.io/tags/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/privacy/</guid>
+      <link>/tags/forensics/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/forensics/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://gohugo.io/tags/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>http://gohugo.io/tags/shortcodes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/shortcodes/</guid>
+      <link>/tags/research/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://gohugo.io/tags/syntax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/syntax/</guid>
+      <link>/tags/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>System 7</title>
-      <link>http://gohugo.io/tags/system-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/system-7/</guid>
+      <link>/tags/system-7/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/system-7/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://gohugo.io/tags/themes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gohugo.io/tags/themes/</guid>
+      <link>/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>/tags/math/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

@@ -11,7 +11,7 @@
 
   <meta name="robots" content="noodp" />
 
-<link rel="canonical" href="http://gohugo.io/" />
+<link rel="canonical" href="/" />
 
 
   
@@ -33,7 +33,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="H3iND33R&#39;s Public Docker">
 <meta property="og:description" content="" />
-<meta property="og:url" content="http://gohugo.io/" />
+<meta property="og:url" content="/" />
 <meta property="og:site_name" content="H3iND33R&#39;s Public Docker" />
 
 
@@ -56,23 +56,22 @@
 
   <header>
 
-    <a href="http://gohugo.io/" class="logo">
+    <a href="/" class="logo">
         <img src="/logo.svg" alt="H3iND33R&#39;s Public Docker" width="55">
     </a>
 
 
 
-  <hgroup>
-      <h1><a href="http://gohugo.io/">H3iND33R&#39;s Public Docker</a></h1>
-      <nav aria-label="Main navigation">
-          <ul>
-              
+  <hgroup style="align-items: center;">
+      <h1><a href="/">H3iND33R&#39;s Public Docker</a></h1>
+      <nav aria-label="Main navigation" style="width: 100%;">
+          <ul style="justify-content: center;">
               
               <li><a href="/">Home</a></li>
               
-              <li><a href="/projects">Projects</a></li>
+              <li><a href="/projects/">Projects</a></li>
               
-              <li><a href="/publications">Publications</a></li>
+              <li><a href="/publications/">Publications</a></li>
               
           </ul>
       </nav>
@@ -80,11 +79,85 @@
 </header>
 
 
-
 <main>
   
 <section>
     <hr>
+<style>
+  .language-switcher {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin: 0 0 1.5rem;
+  }
+
+  .language-switcher button {
+    width: auto;
+    margin: 0;
+    padding: 0.35rem 0.75rem;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .language-switcher button[aria-pressed="true"] {
+    background: currentColor;
+  }
+
+  .language-switcher button[aria-pressed="true"] span {
+    color: var(--pico-background-color, Canvas);
+  }
+
+  .language-panel[hidden] {
+    display: none;
+  }
+
+  .profile-entry {
+    display: flow-root;
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-entry ul {
+    margin-bottom: 0;
+  }
+
+  .profile-entry__logo {
+    float: right;
+    width: auto;
+    max-width: min(34%, 140px);
+    max-height: 100px;
+    margin: 0 0 0.75rem 1rem;
+    object-fit: contain;
+  }
+
+  .profile-entry__logo--small {
+    max-width: min(30%, 120px);
+    max-height: 60px;
+  }
+
+  @media (max-width: 640px) {
+    .language-switcher {
+      justify-content: flex-start;
+    }
+
+    .profile-entry__logo {
+      float: none;
+      display: block;
+      max-width: 160px;
+      max-height: 90px;
+      margin: 0.5rem 0 0.75rem;
+    }
+  }
+</style>
+<div class="language-switcher" aria-label="Language selector">
+  <button type="button" data-language-target="kor" aria-pressed="false"><span>KOR</span></button>
+  <button type="button" data-language-target="eng" aria-pressed="true"><span>ENG</span></button>
+</div>
+<div class="language-panel" data-language-panel="eng">
 <div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
   <div style="flex-shrink: 0;">
     <img src="/junseok-photo.jpeg" alt="Profile Photo" style="width: 220px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
@@ -119,40 +192,6 @@
 </div>
 <hr>
 <h1 id="profile">Profile</h1>
-<style>
-  .profile-entry {
-    display: flow-root;
-    margin-bottom: 1.5rem;
-  }
-
-  .profile-entry ul {
-    margin-bottom: 0;
-  }
-
-  .profile-entry__logo {
-    float: right;
-    width: auto;
-    max-width: min(34%, 140px);
-    max-height: 100px;
-    margin: 0 0 0.75rem 1rem;
-    object-fit: contain;
-  }
-
-  .profile-entry__logo--small {
-    max-width: min(30%, 120px);
-    max-height: 60px;
-  }
-
-  @media (max-width: 640px) {
-    .profile-entry__logo {
-      float: none;
-      display: block;
-      max-width: 160px;
-      max-height: 90px;
-      margin: 0.5rem 0 0.75rem;
-    }
-  }
-</style>
 <h2 id="education">Education</h2>
 <div class="profile-entry">
   <ul>
@@ -302,16 +341,248 @@
       </tr>
   </tbody>
 </table>
+</div>
+<div class="language-panel" data-language-panel="kor" hidden>
+<div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
+  <div style="flex-shrink: 0;">
+    <img src="/junseok-photo.jpeg" alt="프로필 사진" style="width: 220px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  </div>
+  <div style="flex: 1;">
+<h1 id="여준석">여준석</h1>
+<p>안녕하세요. 저는 <strong>H3iND33R</strong>라는 닉네임으로 활동하는 <strong>여준석</strong>입니다. Web3와 DFIR 분야의 전문성을 바탕으로 국가 사이버 안보에 기여하는 전문가를 목표로 하고 있습니다.</p>
+<h2 id="연구-관심사">연구 관심사</h2>
+<ul>
+<li>🕵🏻‍♂️ | <strong>디지털 포렌식 및 침해사고 대응</strong></li>
+<li>⛓️ | <strong>Web3 및 블록체인 보안</strong></li>
+<li>🤖 | <strong>AI 보안</strong></li>
+</ul>
+<h2 id="연락처">연락처</h2>
+<p>📩 Email: <a href="mailto:yeojunseog5@gmail.com">yeojunseog5@gmail.com</a> / 🌐 Website: <a href="https://h3ind33r.github.io">https://h3ind33r.github.io</a></p>
+<div style="display: flex; gap: 0.5rem; align-items: center; margin-top: 0.5rem;">
+  <span>Also available -</span>
+  <a href="https://x.com/h3in_upsider" target="_blank" title="Twitter/X">
+    <img src="/icons/twitter.svg" alt="Twitter" style="width: 24px; height: 24px;" />
+  </a>
+  <a href="https://instagram.com/y__jwns52" target="_blank" title="Instagram">
+    <img src="/icons/instagram.svg" alt="Instagram" style="width: 24px; height: 24px;" />
+  </a>
+  <a href="https://facebook.com/profile.php?id=100059439313056&locale=ko_KR" target="_blank" title="Facebook">
+    <img src="/icons/facebook.svg" alt="Facebook" style="width: 24px; height: 24px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EC%97%AC-8b680534b/" target="_blank" title="LinkedIn">
+    <img src="/icons/linkedin.svg" alt="LinkedIn" style="width: 24px; height: 24px;" />
+  </a>
+</div>
+  </div>
+</div>
+<hr>
+<h1 id="프로필">프로필</h1>
+<h2 id="학력">학력</h2>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2021/01 – 2026/03</code> <strong>육군사관학교 82기</strong></p>
+      <img class="profile-entry__logo profile-entry__logo--small" src="/kma_logo.png" alt="육군사관학교 로고" />
+      <ul>
+        <li>컴퓨터과학 및 군사학 학사</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<h2 id="소속">소속</h2>
+<div class="profile-entry">
+  <ul>
+    <li><p><code>2025/10 -  </code> <strong>Fermion (CTF Team)</strong></p></li>
+  </ul>
+</div>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2025/02 – 2025/05</code> <strong>UPSide Academy 2기</strong></p>
+      <img class="profile-entry__logo" src="/upside_academy_logo.png" alt="UPSide Academy 로고" />
+      <ul>
+        <li>
+          <p><em>ChainStalker</em> 리서치 팀장</p>
+          <ul>
+            <li>주제: <em>Perp DEX를 활용한 자금세탁 유틸리티 검증</em></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2024/08 – 2024/10</code> <strong>K-Shield Jr. 13기</strong> (침해사고 분석)</p>
+      <img class="profile-entry__logo" src="/kshieldj.png" alt="K-Shield 로고" />
+      <ul>
+        <li>
+          <p><em>C.I.A.</em> 리서치 팀장</p>
+          <ul>
+            <li>주제: <em>유해 콘텐츠 탐지에 특화된 한국어 CIA-BERT™ 모델 기반 온라인 범죄 현장 자동 아카이빙 도구 개발</em></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2024/03 - 2025/03</code> <strong>육군사관학교 정보보호학회 MILLISEC 팀장</strong></p>
+      <img class="profile-entry__logo" src="/millisec_logo.png" alt="MILLISEC 로고" />
+    </li>
+  </ul>
+</div>
+<div class="profile-entry">
+  <ul>
+    <li>
+      <p><code>2023/01 – 2024/12</code> <strong>서울특별시경찰청</strong></p>
+      <img class="profile-entry__logo" src="/seoul_police_logo.png" alt="서울특별시경찰청 로고" />
+      <ul>
+        <li>누리캅스 사이버 명예경찰 위촉</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<hr>
+<h2 id="ctf-및-수상">CTF 및 수상</h2>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>연도</th>
+          <th>대회</th>
+          <th>분야</th>
+          <th>주최</th>
+          <th>팀</th>
+          <th>순위</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>[3]</td>
+          <td>2026</td>
+          <td>HCTF 2026</td>
+          <td>General Track</td>
+          <td>한양대학교</td>
+          <td>밥친구</td>
+          <td>1위<a href="/HCTF2026.pdf">🥇</a></td>
+      </tr>
+      <tr>
+          <td>[2]</td>
+          <td>2025</td>
+          <td>Whitehat Contest</td>
+          <td>장교 Track</td>
+          <td>사이버작전사령부</td>
+          <td>MILLISEC</td>
+          <td>5위</td>
+      </tr>
+      <tr>
+          <td>[1]</td>
+          <td>2022</td>
+          <td>Whitehat Contest</td>
+          <td>생도 Track</td>
+          <td>사이버작전사령부</td>
+          <td>H4CK_PUNCH</td>
+          <td>1위<a href="/whitehat2022.pdf">🥇</a></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="논문">논문</h2>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>연도</th>
+          <th>논문명</th>
+          <th>기관</th>
+          <th>논문</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>[3]</td>
+          <td>2026</td>
+          <td>[KCI] 텔레그램 API를 활용한 범죄 의심 채널 아카이빙 프레임워크 제안</td>
+          <td>한국디지털포렌식학회</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>[2]</td>
+          <td>2025</td>
+          <td>[학사논문] KnELECTRA: 마약 범죄 텍스트 탐지를 위한 ELECTRA 기반 한국어 파인튜닝 언어 모델</td>
+          <td>육군사관학교</td>
+          <td>📝<a href="/2025knelectra.pdf">paper</a></td>
+      </tr>
+      <tr>
+          <td>[1]</td>
+          <td>2024</td>
+          <td>[특별호] Windows OS에서 대화형 AI 애플리케이션의 포렌식 아티팩트 분석</td>
+          <td>한국포렌식학회</td>
+          <td>📝<a href="/forensic-ai-application-analysis-2024.pdf">paper</a></td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<script>
+  (function () {
+    var storageKey = "h3ind33r-home-language";
+    var panels = document.querySelectorAll("[data-language-panel]");
+    var buttons = document.querySelectorAll("[data-language-target]");
+    var savedLanguage = getSavedLanguage();
+    var currentLanguage = savedLanguage === "kor" || savedLanguage === "eng" ? savedLanguage : "eng";
+
+    function getSavedLanguage() {
+      try {
+        return localStorage.getItem(storageKey);
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function saveLanguage(language) {
+      try {
+        localStorage.setItem(storageKey, language);
+      } catch (error) {
+        return;
+      }
+    }
+
+    function setLanguage(language, shouldSave) {
+      panels.forEach(function (panel) {
+        panel.hidden = panel.getAttribute("data-language-panel") !== language;
+      });
+
+      buttons.forEach(function (button) {
+        button.setAttribute(
+          "aria-pressed",
+          button.getAttribute("data-language-target") === language ? "true" : "false"
+        );
+      });
+
+      document.documentElement.setAttribute("lang", language === "kor" ? "ko" : "en-us");
+      if (shouldSave) {
+        saveLanguage(language);
+      }
+    }
+
+    buttons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        setLanguage(button.getAttribute("data-language-target"), true);
+      });
+    });
+
+    setLanguage(currentLanguage, false);
+  })();
+</script>
 
 </section>
 
 </main>
 <footer class="footer">
-    <p>
-        Built with
-        <a href="https://gohugo.io" class="footerLink">Hugo</a> and
-        <a href="https://github.com/akopdev/hugo-theme-chicago7" class="footerLink">Chicago7</a> theme
-    </p>
     
     
     <nav class="social">
@@ -391,7 +662,7 @@
     </nav>
     
     <p>
-        &copy; 2026 H3iND33R 
+        &copy; 2026 H3iND33R
     </p>
 </footer>
 

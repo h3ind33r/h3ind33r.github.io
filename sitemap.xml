@@ -2,35 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gohugo.io/</loc>
+    <loc>/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/achievements/</loc>
+    <loc>/tags/achievements/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/awards/</loc>
+    <loc>/tags/awards/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/categories/</loc>
+    <loc>/tags/cybersecurity/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/cybersecurity/</loc>
+    <loc>/tags/forensics/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/emoji/</loc>
+    <loc>/publications/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/forensics/</loc>
+    <loc>/tags/research/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/math/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/privacy/</loc>
+    <loc>/publications/achievements/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/research/</loc>
+    <loc>/archive/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/shortcodes/</loc>
+    <loc>/archive/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/syntax/</loc>
+    <loc>/posts/20190311/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/system-7/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/</loc>
+    <loc>/tags/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://gohugo.io/tags/themes/</loc>
+    <loc>/tags/system-7/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archive/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/20190310/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archive/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/20190309/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/math/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archive/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/20190308/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archive/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/20190305/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/archive/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/projects/</loc>
+  </url><url>
+    <loc>/projects/system7/</loc>
   </url>
 </urlset>
